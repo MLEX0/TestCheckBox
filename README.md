@@ -1,3 +1,3 @@
 # TestCheckBox
-Simple test
+Simple test.
 My First Android App
